@@ -49,22 +49,11 @@ header{
 	transition: ease .40s;
 	background-color: #6e54fa;
 }
-
-
-.logo {
-    
-   
+.logo {  
 	height: 150x;
   width: 150px;
   
-  
-    
-    
-  
 }
-
-
-
 .navbar{
 	display: flex;
 }
